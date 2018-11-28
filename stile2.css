@@ -1,0 +1,25 @@
+h1
+{
+	text-align="center" ;"font-size: 40px;
+	font-family: arial;
+}<style >
+		table
+		{
+          width: 1300px;
+          border: 2px solid #666;
+          text-align: center;
+		}
+		th{
+			background: cyan;
+			color ;
+			font-size: 30px;
+		}
+		tr.even{
+			font-size: 20px;
+			background: cyan;
+		}
+		tr.odd{
+			font-size: 20px;
+			background: orchid;
+		}
+	</style>		
